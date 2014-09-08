@@ -70,7 +70,7 @@ header .header_in, .scrollMenu .header_in, .bottom .header_in, header .header__m
 
 .myFancyClose { position: absolute; top: -17px; right: -18px; }
 
-.btn { display: inline-block; -moz-border-radius: 16px; -webkit-border-radius: 16px; border-radius: 16px; -moz-background-clip: padding; -o-background-clip: padding-box; -webkit-background-clip: padding; background-clip: padding-box; text-decoration: none; padding: 8px 25px; color: #fadc28; font-size: 18px; border: solid 2px #1d1d1d; -moz-transition: background, 0.5s; -o-transition: background, 0.5s; -webkit-transition: background, 0.5s; transition: background, 0.5s; }
+.btn { display: inline-block; -moz-border-radius: 16px; -webkit-border-radius: 16px; border-radius: 16px; -moz-background-clip: padding; -o-background-clip: padding-box; -webkit-background-clip: padding; background-clip: padding-box; text-decoration: none; padding: 8px 25px; color: #fadc28; font-size: 18px; border: solid 2px #272727; -moz-transition: background, 0.5s; -o-transition: background, 0.5s; -webkit-transition: background, 0.5s; transition: background, 0.5s; }
 .btn:hover { color: #000000; background-color: #fbe45a; }
 
 .title { text-align: center; font-size: 16px; font-family: "conv_pfdintextcondpro-thin"; line-height: 1.3em; text-transform: uppercase; font-weight: normal; }
