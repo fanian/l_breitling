@@ -103,7 +103,7 @@ header .header__main--main .price--in, .scrollMenu .header__main--main .price--i
 header .header__main--main .header__right, .scrollMenu .header__main--main .header__right, .bottom .header__main--main .header__right { position: relative; float: right; z-index: 2; *zoom: 1; }
 header .header__main--main .header__right:after, .scrollMenu .header__main--main .header__right:after, .bottom .header__main--main .header__right:after { content: " "; display: table; clear: both; }
 
-.scrollMenu { position: fixed; z-index: 999; width: 100%; top: 0; left: 0; bottom: auto; display: none; height: 60px; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; background: rgba(222, 233, 236, 0.8); }
+.scrollMenu { position: fixed; z-index: 999; width: 100%; top: 0; left: 0; bottom: auto; display: none; height: 60px; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; background: rgba(0, 0, 0, 0.8); }
 .scrollMenu .header_in { padding-top: 20px; }
 .scrollMenu .top { height: 0; }
 
@@ -178,6 +178,7 @@ header .header__main--main .header__right:after, .scrollMenu .header__main--main
 
 .bottom { border-top: solid 2px rgba(0, 0, 0, 0.8); }
 .bottom .header__title { margin-top: 60px; }
+.bottom .header__title--second { margin-top: 0; }
 
 footer { box-sizing: border-box; height: 90px; text-align: center; padding-top: 15px; }
 footer p { font-size: 16px; color: #787878; }
